@@ -6,6 +6,11 @@ require.config({
     "almond": "../vendor/bower/almond/almond",
     "underscore": "../vendor/bower/lodash/dist/lodash.underscore",
     "jquery": "../vendor/bower/jquery/dist/jquery",
-    "backbone": "../vendor/bower/backbone/backbone"
+    "backbone": "../vendor/bower/backbone/backbone",
+    "mustache": '../../vendor/bower/mustache/mustache',
+    "text": "../../vendor/bower/text/text",
+    "backbonetouch":"../vendor/backbone.touch",
+    "animationscheduler":"../vendor/animationScheduler",
+    "crafty": "../vendor/bower/crafty/dist/crafty-min"
   }
 });
